@@ -69,8 +69,10 @@ include __DIR__ . '/tpl/body_start.php';
                             <div class="invalid-feedback">
                                 Enter a valid place
                             </div>
-                            <button id="sub" class="button-hide">Send</button>
+                
                         </div>
+                        
+                         <button id="sub" class="button-hide">Send</button>
 
 
                      </form>
